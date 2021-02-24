@@ -6,7 +6,7 @@
 
 ![Automatic check](https://github.com/shanmite/LotteryAutoScript/workflows/Automatic%20check/badge.svg)
 
-  
+   
 
 ![Automatic clear dynamic&follow](https://github.com/shanmite/LotteryAutoScript/workflows/Automatic%20clear%20dynamic&follow/badge.svg)
 
